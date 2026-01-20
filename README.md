@@ -5,7 +5,6 @@ A SQL-based database project designed to manage movies, actors, and their relati
 ## Tech Stack
 - SQL
 - MySQL
-- DBMS
 
 ## Database Design
 - Designed normalized relational tables for movies and actors
